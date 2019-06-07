@@ -5,5 +5,5 @@ def teach
    KNOWLEDGE.sample do |k|
      puts "#{k}"
  end 
-  
+end 
 end
